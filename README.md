@@ -1,4 +1,3 @@
-voxel-tquery
-============
+# voxel-tquery
 
 tquery.js for voxel.js
